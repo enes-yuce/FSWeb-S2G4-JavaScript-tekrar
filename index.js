@@ -50,7 +50,9 @@ function KareninAlani(kenaruzunlugu) {
 	4. Hesaplanan çemberin çevresi döndürülecektir.
 */
 
-function CemberinCevresi(/* kodlar buraya */) {
+function CemberinCevresi(a, b) {
+  let toplam = a+b
+  return toplam;
   /* kodlar buraya */
 }
 
